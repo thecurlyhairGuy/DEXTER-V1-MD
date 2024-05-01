@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"DEXTER-V1-MD",
+      "value":"𝗞𝗜𝗡𝗚 𝗕𝗔𝗟𝗗𝗪𝗜𝗡 𝗜𝗩 ❤️🤚🏼",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"📌 Dont change ",
-      "value":"https://telegra.ph/file/e716c8220c20e3845f2cf.mp4",
+      "value":"https://telegra.ph/file/822f739b1983a46e8fa4c.mp4,https://telegra.ph/file/c2ae3b77d491788506118.mp4,https://telegra.ph/file/6adf920ec7d89c1f7fb83.mp4,https://telegra.ph/file/9786ecf507e251c6f1781.mp4",
       "required":false
        
      },
@@ -81,7 +81,7 @@
     
     "desc": "📌 Dont chchange (වෙනස් කරන්න එපා)",
     "required":false,
-    "value": "94789958225"
+    "value": "2347086606304"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"📌 ALWAYS ONLINE 1 /📌 TYPING 2 /📌 RECORDING AUDIO.... 3🌟 ඔයාට ඔන අංකය type කරන්න 🌟",
-    "value":"",
+    "value":"true",
     "required": false
   }  
   },
